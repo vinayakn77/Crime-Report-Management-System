@@ -52,7 +52,7 @@ and the **UI** is designed using **XML** (Extendible Markup Language).
 2. Java
 ```
 
-#### You can Reach me at [partheebansms@gmail.com](mailto:partheebansms@gmail.com)
+#### You can Reach me at (mailto:ravindravinayak777@gmail.com)
 
 ## Application Snapshots
 
@@ -73,5 +73,5 @@ and the **UI** is designed using **XML** (Extendible Markup Language).
 <img src="./images/add-criminal-detail.jpg" alt="" width="30%" height="20%">
 <img src="./images/view-criminal-details.jpg" alt="" width="30%" height="20%">
 
-#### You can Reach me at [partheebansms@gmail.com](mailto:partheebansms@gmail.com)
+#### You can Reach me at (mailto:ravindravinayak777@gmail.com)
 </p>
