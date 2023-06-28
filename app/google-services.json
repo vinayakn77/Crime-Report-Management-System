@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243648175920",
+    "firebase_url": "https://crime-report-management-733e2-default-rtdb.firebaseio.com",
+    "project_id": "crime-report-management-733e2",
+    "storage_bucket": "crime-report-management-733e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243648175920:android:1f4862fe1566c67aeef2f5",
+        "android_client_info": {
+          "package_name": "com.example.crime_report_management_system_miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243648175920-ds45m3ari52pp5caiif6vnl28ercub9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHR2uxFsX1cxDIAyvNWNBT0JWZMIe63pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243648175920-ds45m3ari52pp5caiif6vnl28ercub9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
