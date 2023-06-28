@@ -54,24 +54,4 @@ and the **UI** is designed using **XML** (Extendible Markup Language).
 
 #### You can Reach me at (mailto:ravindravinayak777@gmail.com)
 
-## Application Snapshots
 
-<p align="center">
-<img src="./images/home.jpg" alt="" width="30%" height="20%">
-<img src="./images/user type selection.jpg" alt="" width="30%" height="20%">
-<img src="./images/user-signup.jpg" alt="" width="30%" height="20%">
-<img src="./images/user-login.jpg" alt="" width="30%" height="20%">
-<img src="./images/user-dashboard.jpg" alt="" width="30%" height="20%">
-<img src="./images/report-crime.jpg" alt="" width="30%" height="20%">
-<img src="./images/file-missing-report.jpg" alt="" width="30%" height="20%">
-<img src="./images/user-info.jpg" alt="" width="30%" height="20%">
-<img src="./images/police-login.jpg" alt="" width="30%" height="20%">
-<img src="./images/police-dashboard.jpg" alt="" width="30%" height="20%">
-<img src="./images/crime-case.jpg" alt="" width="30%" height="20%">
-<img src="./images/person-missing-case.jpg" alt="" width="30%" height="20%">
-<img src="./images/crime map.jpg" alt="" width="30%" height="20%">
-<img src="./images/add-criminal-detail.jpg" alt="" width="30%" height="20%">
-<img src="./images/view-criminal-details.jpg" alt="" width="30%" height="20%">
-
-#### You can Reach me at (mailto:ravindravinayak777@gmail.com)
-</p>
