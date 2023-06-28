@@ -32,8 +32,6 @@ and **Ease of Maintaining Criminal Records** through cloud database.
 5. View Criminal Record
 ```
 
-
-
 ## Technology Stack
 
 This system is an Android based mobile application that uses **Firebase** as a **Cloud database**. The Android application here is developed using famous programming language **Java**
@@ -43,7 +41,6 @@ and the **UI** is designed using **XML** (Extendible Markup Language).
 ```diff
 1. Android Studio IDE
 2. Firebase Authentication & Database
-3. Adobe XD
 ```
 
 #### Languages:
