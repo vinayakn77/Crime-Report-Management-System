@@ -1,12 +1,13 @@
-Criminal Report Management System is an android application designed to **Report Crime or Person Missing Case** 
-and **Ease of Maintaining Criminal Records** through cloud database.
-
 # Crime-Report-Management-System
+
 A Ready to release **Android application for Criminal Report Management System**.
 <p align="center">
 <img src="./images/logoc.jpg" alt="" width="60%" height="25%">
 </p>
 
+#Abstract
+Criminal Report Management System is an android application designed to **Report Crime or Person Missing Case** 
+and **Ease of Maintaining Criminal Records** through cloud database.
 
 ## Types of Users
 ```diff
